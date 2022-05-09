@@ -1,2 +1,2 @@
-# Weights & Biases Youtube Channel Playlist
+# Machine learning projects
 **Notes and coding**
